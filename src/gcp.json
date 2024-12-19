@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "data-engineering-444616",
+    "private_key_id": "0d830b8856eaed0a0b7aaf8fbee033ead0fabce7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUemT2dM1l8CWS\nJ1Me59DGJmwQ62kWiHtIbMbwMrShnDMnw2SpcjCV1057ZVSETw8npwBAJ1C4XIdR\nvu1b7Gttbcx10GPBSthWoU8ggY+PFyRT2a7mJkKjOLQdw9KCraWZjDrqD1M/OF+t\nGztFrjeFfZUV+Y/VQwzSrj0AfV5UdVwv/yQOjC0UccOwkagqvUq+KpCm/twKUeZ/\nmyPexZLhhtwnmOLPQFKVJ2dUUxYVmYHXY/VbnxhggNj4/B08mfebTs+k4fGrme9M\nlvo3IT0bDUtMTtJZRQvXs6ABa2k33lgiTRkKEp22oqbDIWfumVlYqAYdJgKKF7/N\nge1OuCShAgMBAAECggEACvupJp6uw9VMIeAHwUYXEfkINr8ua1BifAHIbj/Wu7BW\n6hgk5sfc6E/s8f6wxdaO2Fw+7HIDz4XT5lc1zn2751gIvLHJCEOpx1+W9x2PWcSG\n15E9485oPSboE45M3j2i3Nsla/YfFdpggrKQx6cr3kn5p/1CkLHisqy4QUNZugiP\nUEM+qdK0HB87bDS8CdB45XvHCzrita6fbHIJm+/TNF5duAo0sS1zGqb0xphncYgv\nEffpYXqOOND6Pu/SeY3OVofAqu3T6kaqELOa2RZo7vFYefIHpjeAInO/TxT3+Aqz\nXzET/8u2hE2J50xr9KMO7BkleYjtZCuIJSjVIROueQKBgQD54fJWJqUSlRDaiSAr\nlEbQmnboB01NybDD2oNTluOZPfytMc6QA90PidDtCquJCOl/jm5P6rkGEWJiODbE\nQP39/LssPfAgk6qH1o1W8rvmJNZUC+La5CU+FKO8UfBeJaa+nFkGFXltbmTRu6ge\n9svCblVY3pFWRYPrMcE5b/sBiQKBgQDZrgckaJaUhtCvAh6AsXCwiKFSV5ZHnlai\nkaMLsIXMZWNkFTks4IR7SdQ2Gf6ajY063YeoQ6WkoU3l0VzVKWu2o8ZSH4qhIKhL\nza9d3HpsAm0nsDnRv65IIYN4uu/Nn4mgilmC35ymjmJpMeGbot8qEKQKUpEWxnfA\nar9xf7S8WQKBgQCfCqAjFRWbbiT78qr3EbjArI9hvsQE7ooDHeDYIwFZV4qq8Th3\nkP3yFdVUCaaD4Zg8B3tOgiahJg9oVD8HShZewayfzAw5r8KqEnSDEptlL6z6cVZB\n21OY36oXAk/qnCw0xW4j4ScX71tb4gRvMMUfSvonRgFa14PO/ivtUsh/gQKBgHU1\nV3MrPalLziHtqi7xXBQx/Wsw7iIyB8QRVxF8Qw8DqLjDFL4tRih8YF+hL45YmasQ\njXL0ucQjdqZATRQZ8X2uQaMGiMappvTqE3setGxkAhJUuU1PQLBmGzxuq6C0Po7K\n79egP+EO2b56tVfwIumrfChyvNzekKxyzhJ3CQJBAoGBALA7ZVcUsjmnyq9JnQtw\n0wHAMM8a2lCkkaIrzsddpgaUTt6eKYqgJvMpSLXOJLbk+YwQvyquX4SeX8rtOecD\nVfYs5WmMo8SKmXaXkZhNuKlQrR0VwouDYH7zZBeRzwG7aRNv+39Atr8Ar4ilklrW\n/03Gw/RBFHxF4KRU1f/G6Qvz\n-----END PRIVATE KEY-----\n",
+    "client_email": "movies-pipeline@data-engineering-444616.iam.gserviceaccount.com",
+    "client_id": "103174504188194300753",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/movies-pipeline%40data-engineering-444616.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
